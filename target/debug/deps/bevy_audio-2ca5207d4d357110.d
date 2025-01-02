@@ -1,0 +1,10 @@
+/Users/waddles/Downloads/StorageForCoding/BevyTestBenGrady/target/debug/deps/libbevy_audio-2ca5207d4d357110.rmeta: /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.0/src/lib.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.0/src/audio.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.0/src/audio_output.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.0/src/audio_source.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.0/src/pitch.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.0/src/sinks.rs
+
+/Users/waddles/Downloads/StorageForCoding/BevyTestBenGrady/target/debug/deps/bevy_audio-2ca5207d4d357110.d: /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.0/src/lib.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.0/src/audio.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.0/src/audio_output.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.0/src/audio_source.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.0/src/pitch.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.0/src/sinks.rs
+
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.0/src/lib.rs:
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.0/src/audio.rs:
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.0/src/audio_output.rs:
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.0/src/audio_source.rs:
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.0/src/pitch.rs:
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.0/src/sinks.rs:

@@ -1,0 +1,10 @@
+/Users/waddles/Downloads/StorageForCoding/BevyTestBenGrady/target/debug/deps/libbevy_image-647e3bf75df9e8d2.rmeta: /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.0/src/lib.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.0/src/image.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.0/src/hdr_texture_loader.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.0/src/image_loader.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.0/src/ktx2.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.0/src/image_texture_conversion.rs
+
+/Users/waddles/Downloads/StorageForCoding/BevyTestBenGrady/target/debug/deps/bevy_image-647e3bf75df9e8d2.d: /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.0/src/lib.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.0/src/image.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.0/src/hdr_texture_loader.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.0/src/image_loader.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.0/src/ktx2.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.0/src/image_texture_conversion.rs
+
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.0/src/lib.rs:
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.0/src/image.rs:
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.0/src/hdr_texture_loader.rs:
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.0/src/image_loader.rs:
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.0/src/ktx2.rs:
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.0/src/image_texture_conversion.rs:

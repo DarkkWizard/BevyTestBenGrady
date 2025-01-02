@@ -1,0 +1,9 @@
+/Users/waddles/Downloads/StorageForCoding/BevyTestBenGrady/target/debug/deps/libderive_more-6bab9e14fa6f8bb7.rmeta: /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-1.0.0/src/lib.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-1.0.0/src/as.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-1.0.0/src/vendor/mod.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-1.0.0/src/vendor/thiserror/mod.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-1.0.0/src/vendor/thiserror/aserror.rs
+
+/Users/waddles/Downloads/StorageForCoding/BevyTestBenGrady/target/debug/deps/derive_more-6bab9e14fa6f8bb7.d: /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-1.0.0/src/lib.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-1.0.0/src/as.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-1.0.0/src/vendor/mod.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-1.0.0/src/vendor/thiserror/mod.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-1.0.0/src/vendor/thiserror/aserror.rs
+
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-1.0.0/src/lib.rs:
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-1.0.0/src/as.rs:
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-1.0.0/src/vendor/mod.rs:
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-1.0.0/src/vendor/thiserror/mod.rs:
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/derive_more-1.0.0/src/vendor/thiserror/aserror.rs:

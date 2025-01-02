@@ -1,0 +1,8 @@
+/Users/waddles/Downloads/StorageForCoding/BevyTestBenGrady/target/debug/deps/libbevy_render_macros-43298ea99f290be1.dylib: /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.15.0/src/lib.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.15.0/src/as_bind_group.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.15.0/src/extract_component.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.15.0/src/extract_resource.rs
+
+/Users/waddles/Downloads/StorageForCoding/BevyTestBenGrady/target/debug/deps/bevy_render_macros-43298ea99f290be1.d: /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.15.0/src/lib.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.15.0/src/as_bind_group.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.15.0/src/extract_component.rs /Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.15.0/src/extract_resource.rs
+
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.15.0/src/lib.rs:
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.15.0/src/as_bind_group.rs:
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.15.0/src/extract_component.rs:
+/Users/waddles/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.15.0/src/extract_resource.rs:
